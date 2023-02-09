@@ -20,6 +20,4 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janithgunathilake&show_icons=true&locale=en" alt="janithgunathilake" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithgunathilake&" alt="janithgunathilake" /></p>
+<img src="https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png">
