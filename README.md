@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning <strong>React.js,Node.js,Express.js,MongoDB (MERN)</strong>
 
 - 📫 How to reach me **janithkavinda49@gmail.com**
+- 🌐 Portfolio - **https://janithgunathilake.github.io**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
