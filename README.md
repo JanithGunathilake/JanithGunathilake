@@ -60,3 +60,4 @@
 <h2 align="center">Activity on Github</h2>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=JanithGunathilake&theme=highcontrast"/> </p>
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanithGunathilake&theme=aura_dark"/> </p>
