@@ -60,9 +60,13 @@
 <h2 align="center">Activity on Github</h2>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=JanithGunathilake&theme=highcontrast"/> </p>
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanithGunathilake&theme=aura_dark"/> </p>
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanithGunathilake&theme=dark"/> </p>
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JanithGunathilake&theme=dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JanithGunathilake&theme=dark"/>
 </div>
+
+## Monthly Contribution Stats
+<a href="https://github.com/JanithGunathilake"><img alt="JanithGunathilake's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JanithGunathilake&theme=react-dark&radius=8&area=true"/>
+</a>
