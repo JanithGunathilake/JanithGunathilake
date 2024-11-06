@@ -71,3 +71,7 @@
 ## Monthly Contribution Stats
 <a href="https://github.com/JanithGunathilake"><img alt="JanithGunathilake's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JanithGunathilake&theme=react-dark&radius=8&area=true"/>
 </a>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=JanithGunathilake&label=Profile%20Views&icon=5&pretty=false" />
+</a>
